@@ -4,7 +4,7 @@ import {HiOutlineMail} from "react-icons/hi";
 import {BsFillPersonLinesFill} from "react-icons/bs";
 import {Link} from 'react-scroll';
 import ReactSwitch from "react-switch";
-import Resume from "../assets/Resume.pdf";
+import Resume from "../assets/ResumeForWebsite.pdf";
 
 const Navbar = () => {
 
